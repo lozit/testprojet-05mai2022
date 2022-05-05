@@ -6,4 +6,4 @@ ceci est un autre paragraphe
 
 modif du fichier
 
-Je rajoute une ligne
+Je rajoute une ligne.
