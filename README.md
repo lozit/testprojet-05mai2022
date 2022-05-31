@@ -10,8 +10,6 @@ modif du fichier
 Je rajoute une ligne.
 test
 
-Je rajoute une autre ligne.
+Je rajoute une autre ligne. (moi aussi!)
 
 super.
-
-jhhjgu
